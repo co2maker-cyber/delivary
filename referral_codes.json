@@ -1,6 +1,15 @@
 {
  "version": 2,
- "updated": "2026-11-07 11:07:05",
- "codes": [],
- "sig": "a58b326bf95852002ec3c86e75b2a1f90679f3d20d8bc2628ed23bdbd68a736d9a6363702b8cc9942034d908547c5c4d26d6dae05c1ee22fbb1ac2ae0bddd504"
+ "updated": "2026-11-07 17:22:26",
+ "codes": [
+  {
+   "code": "12345",
+   "points": 500,
+   "memo": "",
+   "active": true,
+   "expires": ""
+  }
+ ],
+ "sig": "e54b2467223b5b27d08cb55d456efddacb922338d590a118edcda96c62ecc9ec08853815320a354b49dd9792391eaa0534c7d102ce26d50969d1a8343efe6002"
 }
+
